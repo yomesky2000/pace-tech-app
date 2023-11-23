@@ -4,5 +4,5 @@ From tomcat:9.0
 # Maintainer 
 MAINTAINER "ginger@pacetechnologies.com" 
 
-LABEL project="Engineer Ginger Apache Docker Image"
+LABEL project="Engineer Ginger Deploying Docker Image"
 
